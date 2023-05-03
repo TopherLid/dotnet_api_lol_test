@@ -1,0 +1,16 @@
+E:\C_NET\project1\p1.infrastructure\bin\Debug\netcoreapp3.1\p1.infrastructure.deps.json
+E:\C_NET\project1\p1.infrastructure\bin\Debug\netcoreapp3.1\p1.infrastructure.dll
+E:\C_NET\project1\p1.infrastructure\bin\Debug\netcoreapp3.1\p1.infrastructure.pdb
+E:\C_NET\project1\p1.infrastructure\bin\Debug\netcoreapp3.1\p1.core.dll
+E:\C_NET\project1\p1.infrastructure\bin\Debug\netcoreapp3.1\p1.core.pdb
+E:\C_NET\project1\p1.infrastructure\obj\Debug\netcoreapp3.1\p1.infrastructure.csproj.AssemblyReference.cache
+E:\C_NET\project1\p1.infrastructure\obj\Debug\netcoreapp3.1\p1.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\C_NET\project1\p1.infrastructure\obj\Debug\netcoreapp3.1\p1.infrastructure.AssemblyInfoInputs.cache
+E:\C_NET\project1\p1.infrastructure\obj\Debug\netcoreapp3.1\p1.infrastructure.AssemblyInfo.cs
+E:\C_NET\project1\p1.infrastructure\obj\Debug\netcoreapp3.1\p1.infrastructure.csproj.CoreCompileInputs.cache
+E:\C_NET\project1\p1.infrastructure\obj\Debug\netcoreapp3.1\p1.infrastructure.csproj.CopyComplete
+E:\C_NET\project1\p1.infrastructure\obj\Debug\netcoreapp3.1\p1.infrastructure.dll
+E:\C_NET\project1\p1.infrastructure\obj\Debug\netcoreapp3.1\p1.infrastructure.pdb
+E:\C_NET\project1\p1.infrastructure\bin\Debug\netcoreapp3.1\p1.infrastructure.runtimeconfig.json
+E:\C_NET\project1\p1.infrastructure\bin\Debug\netcoreapp3.1\p1.infrastructure.runtimeconfig.dev.json
+E:\C_NET\project1\p1.infrastructure\obj\Debug\netcoreapp3.1\p1.infrastructure.genruntimeconfig.cache

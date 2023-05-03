@@ -1,0 +1,10 @@
+E:\C_NET\project1\p1.core\bin\Debug\netcoreapp3.1\p1.core.deps.json
+E:\C_NET\project1\p1.core\bin\Debug\netcoreapp3.1\p1.core.dll
+E:\C_NET\project1\p1.core\bin\Debug\netcoreapp3.1\p1.core.pdb
+E:\C_NET\project1\p1.core\obj\Debug\netcoreapp3.1\p1.core.csproj.AssemblyReference.cache
+E:\C_NET\project1\p1.core\obj\Debug\netcoreapp3.1\p1.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\C_NET\project1\p1.core\obj\Debug\netcoreapp3.1\p1.core.AssemblyInfoInputs.cache
+E:\C_NET\project1\p1.core\obj\Debug\netcoreapp3.1\p1.core.AssemblyInfo.cs
+E:\C_NET\project1\p1.core\obj\Debug\netcoreapp3.1\p1.core.csproj.CoreCompileInputs.cache
+E:\C_NET\project1\p1.core\obj\Debug\netcoreapp3.1\p1.core.dll
+E:\C_NET\project1\p1.core\obj\Debug\netcoreapp3.1\p1.core.pdb
